@@ -1,3 +1,2 @@
-# Cria/sobrescreve o .gitignore com o conteúdo correto
-"node_modules/" | Out-File .gitignore
-".env" | Out-File -Append .gitignore
+node_modules/
+.env
